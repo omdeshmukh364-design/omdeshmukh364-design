@@ -183,16 +183,6 @@ Cybersecurity
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-[![Om's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omdeshmukh364-design\&theme=github-dark)](https://github.com/omdeshmukh364-design)
-
-</div>
-
----
-
 # ✍️ Random Developer Quote
 
 <div align="center">

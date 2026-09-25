@@ -86,29 +86,15 @@ An AI-powered smart campus platform designed to improve communication and manage
 
 ---
 
-🎯 Saarthi
+## 🛕 WariSphere
 
-A career guidance platform designed to help students make informed decisions after Class 12 by exploring career paths, courses, skills, and educational opportunities.
+A technology platform focused on **safety, real-time coordination, incident management, and emergency assistance** for large-scale pilgrimage events.
 
-Tech Stack: React JavaScript Firebase AI
+**Tech Stack:** `FastAPI` `Firebase` `React` `WebSockets` `AI`
 
-Focus: Career Guidance • Course Discovery • Skill Roadmaps • Student Assistance
+**Focus:** Emergency Response • Missing Persons • Medical Assistance • Crowd Management
 
-🤖 SkillVerse AI
-
-An AI-powered platform designed to connect candidates and recruiters while using intelligent tools to improve the recruitment and skill-matching process.
-
-Tech Stack: Python FastAPI React AI/ML
-
-Focus: AI Recruitment • Resume Analysis • Candidate Matching • Recruiter Platform
-
-💰 MoneySense
-
-A personal finance application designed to help users better understand and manage their income, expenses, savings, and financial habits.
-
-Tech Stack: React JavaScript Firebase
-
-Focus: Expense Tracking • Financial Management • Budgeting • Insights
+---
 
 ## 🎓 Campus Link
 
@@ -119,6 +105,35 @@ A student community platform designed to help college students discover and conn
 **Focus:** Student Communities • Authentication • Campus Networking
 
 ---
+
+## 🎯 Saarthi
+
+A career guidance platform designed to help students make informed decisions after Class 12 by exploring **career paths, courses, skills, and educational opportunities**.
+
+**Tech Stack:** `React` `JavaScript` `Firebase` `AI`
+
+**Focus:** Career Guidance • Course Discovery • Skill Roadmaps • Student Assistance
+
+---
+
+## 🤖 SkillVerse AI
+
+An AI-powered platform designed to connect **candidates and recruiters** while using intelligent tools to improve the recruitment and skill-matching process.
+
+**Tech Stack:** `Python` `FastAPI` `React` `AI/ML`
+
+**Focus:** AI Recruitment • Resume Analysis • Candidate Matching • Recruiter Platform
+
+---
+
+## 💰 MoneySense
+
+A personal finance application designed to help users better understand and manage their **income, expenses, savings, and financial habits**.
+
+**Tech Stack:** `React` `JavaScript` `Firebase`
+
+**Focus:** Expense Tracking • Financial Management • Budgeting • Insights
+
 
 # 🏆 Hackathons & Technical Activities
 
